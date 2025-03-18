@@ -1,3 +1,4 @@
+![Imagen de un pinguino, encabezado amigo secreto](pinguino.jpg)
 # Amigo Secreto
 ## Descripción
 **Amigo Secreto** es una aplicación que permite a los usuarios agregar nombres de participantes y realizar un sorteo para asignar a cada persona un amigo secreto de manera aleatoria. ¡Agrega nombres y sortea de manera fácil y divertida!
